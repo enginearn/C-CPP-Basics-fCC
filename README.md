@@ -9,9 +9,9 @@
 
 - [gcc.gnu.org](https://gcc.gnu.org/install/binaries.html)
 
-  - [x86_64-12.2.0-release-posix-seh-rt_v10-rev0.7z](https://github.com/niXman/mingw-builds-binaries/releases)
+  - [x86_64-13.1.0-release-posix-seh-msvcrt-rt_v11-rev1.7z](https://github.com/niXman/mingw-builds-binaries/releases)
 
-  - [LLVM Project page - LLVM-15.0.3-win64.exe](https://github.com/llvm/llvm-project)
+  - [LLVM Project page - LLVM-16.0.6-win64.exe](https://github.com/llvm/llvm-project)
 
 </details>
 
